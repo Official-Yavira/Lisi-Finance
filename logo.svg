@@ -10,7 +10,6 @@
   <g transform="translate(18 10)">
     <path d="M18 148V28h16v104h55v16H18Z" fill="url(#gold)"/>
     <path d="M78 148V28h83v16H95v34h57v16H95v54H78Z" fill="url(#gold)"/>
-    <path d="M14 118 49 83l21 20 29-39 23 27 19-20 31 47" fill="none" stroke="#F0E7D6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M118 57h24v7h-8v8h-8v-8h-8Z" fill="#D84843"/>
     <path d="M118 57h24v7h-8v8h-8v-8h-8Z" fill="none" stroke="#D84843" stroke-width="1"/>
     <path d="M8 160h155" stroke="url(#gold)" stroke-width="1.5" opacity=".75"/>
