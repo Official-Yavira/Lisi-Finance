@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+  <title id="title">Lisi Finance</title>
+  <desc id="desc">Monogramma LF dorato con monogramma LF dorato, accompagnato dal nome Lisi Finance.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E4CD9A"/>
+      <stop offset="1" stop-color="#B58B4C"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(18 10)">
+    <path d="M18 148V28h16v104h55v16H18Z" fill="url(#gold)"/>
+    <path d="M78 148V28h83v16H95v34h57v16H95v54H78Z" fill="url(#gold)"/>
+    <path d="M8 160h155" stroke="url(#gold)" stroke-width="1.5" opacity=".75"/>
+  </g>
+  <path d="M202 34v122" stroke="#C9A96E" stroke-width="1.5" opacity=".7"/>
+  <text x="232" y="91" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="2.5" fill="#F7F4EE">LISI FINANCE</text>
+  <text x="236" y="128" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4.2" fill="#D8DCE2">CONTABILITÀ  ·  FINANZA  ·  CONSULENZA</text>
+</svg>
